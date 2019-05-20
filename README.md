@@ -16,3 +16,15 @@ Para el analisis de codigo utilizamos [codacy](https://app.codacy.com/app/rdnove
 ### Continuous integration  
 Para la integracion continua utilizamos [travis](https://travis-ci.org/rdnovell/desapp-groupL-backend)  
 
+## Frontend  
+[![Build Status](https://travis-ci.org/rdnovell/desapp-groupL-frontend.svg?branch=master)](https://travis-ci.org/rdnovell/desapp-groupL-frontend)
+
+Repositorio github del [frontend](https://github.com/rdnovell/desapp-groupL-frontend)  
+### Tecnologia  
+Para la realizacion del frontend se utiliza Angular 7, Angular Material y NodeJS
+### Deploy  
+El proyecto se encuentra en [heroku](https://eventeando-grupol.herokuapp.com)    
+### Code analysis
+Para el analisis de codigo utilizamos [codacy]()  
+### Continuous integration  
+Para la integracion continua utilizamos [travis](https://travis-ci.org/rdnovell/desapp-groupL-frontend)  
